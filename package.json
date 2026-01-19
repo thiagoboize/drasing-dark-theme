@@ -1,0 +1,20 @@
+{
+  "name": "drasing-dark-theme",
+  "displayName": "Drasing Dark Theme",
+  "description": "Dark theme focused on structure, hierarchy and productivity.",
+  "version": "0.0.1",
+  "publisher": "drasing",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Drasing Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/drasing-dark.json"
+      }
+    ]
+  }
+}
