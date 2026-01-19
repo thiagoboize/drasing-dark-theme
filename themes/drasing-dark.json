@@ -266,7 +266,7 @@
         "support.class"
       ],
       "settings": {
-        "foreground": "#f67e7d"
+        "foreground": "#7ED6C1"
       }
     },
     {
@@ -529,7 +529,7 @@
         "entity.other.attribute-name.tsx"
       ],
       "settings": {
-        "foreground": "#70c1b3"
+        "foreground": "#8FB8C8"
       }
     },
     {
