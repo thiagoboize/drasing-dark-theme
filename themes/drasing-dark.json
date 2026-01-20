@@ -26,7 +26,7 @@
         "string"
       ],
       "settings": {
-        "foreground": "#FFC799"
+        "foreground": "#e3cdb1"
       }
     },
     {
@@ -58,7 +58,7 @@
         "variable"
       ],
       "settings": {
-        "foreground": "#46B4E7"
+        "foreground": "#fff"
       }
     },
     {
@@ -205,7 +205,7 @@
         "support.class"
       ],
       "settings": {
-        "foreground": "#99FFE4"
+        "foreground": "#e69a9a"
       }
     },
     {
@@ -219,7 +219,7 @@
         "meta.embedded.expression.jsx"
       ],
       "settings": {
-        "foreground": "#FF8A9D"
+        "foreground": "#7ED6C1"
       }
     },
     {
@@ -529,7 +529,7 @@
         "entity.other.attribute-name.tsx"
       ],
       "settings": {
-        "foreground": "#8FB8C8"
+        "foreground": "#72adc4"
       }
     },
     {
