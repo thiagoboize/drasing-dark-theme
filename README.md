@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/logo.png" width="180" alt="Drasing Dark Theme Logo" />
+</p>
+
 # Drasing Dark Theme
 
 A dark theme for Visual Studio Code focused on **structure, hierarchy, and productivity**.
