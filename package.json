@@ -2,7 +2,7 @@
   "name": "drasing-dark-theme",
   "displayName": "Drasing Dark Theme",
   "description": "Dark theme focused on structure, hierarchy and productivity.",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "publisher": "drasing",
   "icon": "images/icon.png",
   "engines": {
