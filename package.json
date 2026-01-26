@@ -4,7 +4,7 @@
   "description": "Dark theme focused on structure, hierarchy and productivity.",
   "version": "0.0.6",
   "publisher": "drasing",
-  "icon": "images/icon-test.png",
+  "icon": "images/icon-marketplace.png",
   "engines": {
     "vscode": "^1.85.0"
   },
