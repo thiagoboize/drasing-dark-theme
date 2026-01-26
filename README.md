@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/logo.png" width="180" alt="Drasing Dark Theme Logo" />
+  <img src="images/icon.png" width="180" alt="Drasing Dark Theme Logo" />
 </p>
 
 # Drasing Dark Theme
